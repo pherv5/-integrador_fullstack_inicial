@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    
+  }
+  
+.bg-page{
+    background-color:#424B44;
+    
+}
+.bg-image{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/ba1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width:100%;
+}
+
+.btn-bg-ticket {
+    background-color:#56D574;
+  }
+.btn-bg-react {
+    background-color:#25B897;
+  }
+  .btn-bg-starups{
+    background-color:#A92323;
+  }
+
+  .charla{
+    text-decoration:underline;
+    text-decoration-style: dotted;
+  }
+
+  .btn-bg-form{
+    background-color:limegreen;
+  }
+
+  .bg-footer{
+    background-color:#01455C ;
+  }
+ 
+  
